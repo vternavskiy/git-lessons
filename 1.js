@@ -1,3 +1,5 @@
-function addNumber(a,b) {
-	return a + b;
+# test
+#
+function deductNumber(a,b) {
+	return a - b;
 }
